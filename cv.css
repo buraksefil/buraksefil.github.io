@@ -63,6 +63,10 @@ h2 {
     letter-spacing: 0.5px;
 }
 
+.languages-title {
+    margin-top: 30px;  /* Üstteki boşluğu artırmak için */
+}
+
 /* İlk başlık için özel stil */
 .content h2:first-child {
     margin-top: 0;
